@@ -160,6 +160,9 @@
 - `// Refactor this Python function to be more amenable to parallel processing (e.g., using multiprocessing or threading)...`
   <sub>For optimizing performance in computationally intensive Python applications.</sub>
 
+- `// Explain this code to me like I'm a beginner.`
+  <sub>Helps in understanding complex code snippets by providing a simplified explanation.</sub>
+
 
 
 ## Context
